@@ -1,0 +1,26 @@
+body{
+    margin: auto;
+}
+div {
+    padding-top: 25px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+h{
+    font-size: 60px;
+    font-family: cursive;
+    margin-left: 50px;
+    margin-right: 100px;
+    text-shadow: 2px 2px;
+    color: darkslateblue;
+    text-transform: uppercase;
+}
+p{
+    
+    font-size: medium;
+    font-family: cursive;
+    margin-left: 50px;
+    margin-right: 100px;
+
+}
